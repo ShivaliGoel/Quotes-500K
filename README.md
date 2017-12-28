@@ -16,7 +16,7 @@ We have made this dataset publicly available, so that it can be used by fellow r
 
 Link to Download Dataset: https://goo.gl/R3Sa34
 
-Please cite our paper if you wish to use this dataset for your research work.
+<b>Please cite our paper if you wish to use this dataset for your research work.</b>
 
 Title: Proposing Contextually Relevant Quotes for Images
 
