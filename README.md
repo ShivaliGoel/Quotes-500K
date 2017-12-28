@@ -2,7 +2,7 @@
 
 Large Dataset on Quotes
 
-Due to the inavailability of publicly available large dataset on Quotes, we prepared a dataset of our own for solving the task of proposing Contextually Relevant Quotes for images rather than just generating ordinary captions. 
+Due to the unavailability of publicly available large dataset on Quotes, we prepared a dataset of our own for solving the task of proposing Contextually Relevant Quotes for images rather than just generating ordinary captions. 
 
 For creating this dataset, we used the Python package - BeautifulSoup, to crawl quotes from various popular websites such as https://www.goodreads.com/quotes, https://www.brainyquote.com/ , http://www.famousquotesandauthors.com/ and http://www.curatedquotes.com/. All quotes, except the ones in English, were removed using the Python package - langdetect. 
 
