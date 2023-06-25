@@ -14,7 +14,10 @@ The final dataset is offered in csv file format and contains three columns --- t
 
 We have made this dataset publicly available, so that it can be used by fellow researchers for educational and research purposes. 
 
-Link to Download Dataset: https://goo.gl/R3Sa34
+Links to download quotes:
+- https://www.mediafire.com/file/elzplaxcnpf91qs/quotes.csv/file
+- https://drive.google.com/file/d/1M5TTqsLw7uVZfJfvH-fNpRxL9Mw0Iky8/view?usp=sharing
+- https://archive.org/details/quotes_20230625
 
 <b>Please cite our paper if you wish to use this dataset for your research work.</b>
 
